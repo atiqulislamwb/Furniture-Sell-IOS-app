@@ -21,7 +21,7 @@ struct MainTabView: View {
             ProfileView()
                 .tabItem { Label ("Explore" , systemImage: "person") }
         }
-        .tint(.orange)
+        .tint(.blue)
    
         
     }

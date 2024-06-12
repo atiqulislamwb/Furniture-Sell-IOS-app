@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B4857C212C19736C00865799 /* ImageCarousel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4857C202C19736C00865799 /* ImageCarousel.swift */; };
+		B4857C232C1976EC00865799 /* HomeProducts.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4857C222C1976EC00865799 /* HomeProducts.swift */; };
 		B4BFFFC52C1820A70014A986 /* EcomApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4BFFFC42C1820A70014A986 /* EcomApp.swift */; };
 		B4BFFFC72C1820A70014A986 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4BFFFC62C1820A70014A986 /* ContentView.swift */; };
 		B4BFFFC92C1820A90014A986 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4BFFFC82C1820A90014A986 /* Assets.xcassets */; };
@@ -22,6 +24,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B4857C202C19736C00865799 /* ImageCarousel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCarousel.swift; sourceTree = "<group>"; };
+		B4857C222C1976EC00865799 /* HomeProducts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeProducts.swift; sourceTree = "<group>"; };
 		B4BFFFC12C1820A70014A986 /* Ecom.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ecom.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4BFFFC42C1820A70014A986 /* EcomApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EcomApp.swift; sourceTree = "<group>"; };
 		B4BFFFC62C1820A70014A986 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -112,6 +116,8 @@
 				B4BFFFDA2C18217B0014A986 /* HomeView.swift */,
 				B4BFFFE62C1829540014A986 /* HomeHeader.swift */,
 				B4BFFFE82C1831180014A986 /* HomeSearch.swift */,
+				B4857C202C19736C00865799 /* ImageCarousel.swift */,
+				B4857C222C1976EC00865799 /* HomeProducts.swift */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -229,7 +235,9 @@
 				B4BFFFE32C1821B30014A986 /* CartView.swift in Sources */,
 				B4BFFFDD2C1821890014A986 /* ProfileView.swift in Sources */,
 				B4BFFFE52C1822530014A986 /* MainTabView.swift in Sources */,
+				B4857C212C19736C00865799 /* ImageCarousel.swift in Sources */,
 				B4BFFFDB2C18217B0014A986 /* HomeView.swift in Sources */,
+				B4857C232C1976EC00865799 /* HomeProducts.swift in Sources */,
 				B4BFFFE72C1829540014A986 /* HomeHeader.swift in Sources */,
 				B4BFFFE92C1831180014A986 /* HomeSearch.swift in Sources */,
 				B4BFFFC72C1820A70014A986 /* ContentView.swift in Sources */,
